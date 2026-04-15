@@ -7,18 +7,28 @@
 <div id="english-version">
 
 ## 🚀 Project Vision
-Traditional budgeting apps only tell you "what you spent." **SpendWise AI**, however, takes **action** on behalf of the user. It prevents forgotten free trials, negotiates for lower subscription rates, and proactively protects your cash flow through an AI-driven autonomous financial management platform.
+In an era where digital services dominate our expenses, **SpendWise AI** is designed as a next-generation, AI-driven **Autonomous Financial Management** platform. While traditional budgeting apps act as passive observers, SpendWise AI acts as a **proactive guardian**. 
 
-## 🎯 MVP (Minimum Viable Product) Scope
-To prove its core value proposition, this MVP includes four critical modules:
-1. **AI-Driven Subscription Audit:** An NLP-based module that detects "hidden" subscriptions and price hikes from complex bank statements.
-2. **Smart Burn Rate Predictor:** A forecasting engine that simulates upcoming automated payments based on current spending velocity.
-3. **Ghost Card System (Simulation):** A management interface for single-use, limited virtual cards dedicated to digital subscriptions.
-4. **Automated Negotiation Engine:** AI-powered text automation that communicates with service providers for discounts or cancellations.
+By utilizing Natural Language Processing (NLP) and Predictive Analytics, it identifies "hidden" financial drains, manages high-risk free trials, and autonomously negotiates service costs—effectively giving users back control over their digital wealth.
 
-## 📂 Documentation Overview
-- [Product Requirements Document (PRD)](./PRD.md) - Detailed functional and technical analysis.
-- [User Flow Diagram](#) - (Optional: In design phase).
+## 🎯 Deep-Dive MVP Scope
+To demonstrate product-market fit and technical viability, the MVP encompasses four sophisticated modules:
+
+1.  **AI-Driven Subscription Intelligence (SI):** * **Logic:** Uses pattern recognition to parse complex bank statements (CSV/JSON/PDF) and classify recurring bills vs. one-time spikes.
+    * **Value:** Detects "zombie" subscriptions and hidden price hikes that usually go unnoticed.
+
+2.  **Predictive Burn Rate & Cash-Flow Engine:** * **Logic:** Simulates upcoming automated liabilities against current spending velocity. 
+    * **Value:** Provides real-time "End-of-Month" balance forecasts and sends "pre-payment" liquidity alerts.
+
+3.  **Autonomous "Ghost Card" Manager:** * **Logic:** A simulation of dynamic virtual card generation with programmable expiration dates and spending caps.
+    * **Value:** Eliminates the risk of "Free Trial Traps" by automatically killing the payment source after the trial period.
+
+4.  **AI Negotiation & Outreach Bot:** * **Logic:** Generates context-aware, persuasive communication scripts (Email/Chat) to request discounts or cancellations based on competitive market data.
+    * **Value:** Actively reduces the "Cost of Service" without manual user intervention.
+
+## 📂 Documentation Structure
+- [Detailed Product Requirements (PRD)](./PRD.md) - Deep-dive into technical logic, edge cases, and success metrics.
+- [Project Roadmap](#) - Phased scaling strategy from MVP to Full Scale FinTech.
 
 ---
 *This project was developed as the "AI & Business Analysis" capstone for the UpSchool & YGA Future Talent Program.*
@@ -33,18 +43,28 @@ To prove its core value proposition, this MVP includes four critical modules:
 <div id="turkish-version">
 
 ## 🚀 Proje Vizyonu
-Geleneksel bütçe uygulamaları sadece "ne harcadığınızı" söyler. **SpendWise AI** ise kullanıcı adına **aksiyon alır**. Unutulan deneme sürümlerini engeller, pahalı abonelikler için pazarlık yapar ve nakit akışınızı proaktif olarak koruyan yapay zeka tabanlı bir otonom finansal yönetim platformudur.
+Dijital servislerin harcamalarımızı domine ettiği bir çağda, **SpendWise AI** yeni nesil, yapay zeka destekli bir **Otonom Finansal Yönetim** platformu olarak tasarlanmıştır. Geleneksel bütçe uygulamaları sadece pasif bir gözlemciyken, SpendWise AI **proaktif bir muhafız** rolü üstlenir.
 
-## 🎯 MVP (Minimum Viable Product) Kapsamı
-Bu MVP, platformun temel değer önerisini kanıtlamak için şu dört kritik modülü içerir:
-1. **Yapay Zeka Destekli Abonelik Denetimi:** Karmaşık banka dökümlerinden "gizli" abonelikleri ve fiyat artışlarını tespit eden NLP tabanlı modül.
-2. **Akıllı Nakit Tüketim Tahminleyicisi:** Mevcut harcama hızı ile yaklaşan otomatik ödemeleri simüle eden tahminleme motoru.
-3. **Hayalet Kart Sistemi (Simülasyon):** Dijital abonelikler için tek kullanımlık, limitli sanal kart yönetim arayüzü.
-4. **Otomatik Pazarlık Motoru:** Servis sağlayıcılarla indirim veya iptal için iletişime geçen yapay zeka destekli metin otomasyonu.
+Doğal Dil İşleme (NLP) ve Tahminleyici Analitik kullanarak, "gizli" finansal sızıntıları tespit eder, yüksek riskli deneme sürümlerini yönetir ve hizmet maliyetlerini otonom olarak müzakere eder; böylece kullanıcılara dijital servetleri üzerinde tam kontrol sağlar.
 
-## 📂 Dökümantasyon Bakış
-- [Ürün Gereksinim Dokümanı (PRD)](./PRD.md) - Detaylı fonksiyonel ve teknik analiz.
-- [Kullanıcı Akış Şeması (User Flow)](#) - (Opsiyonel: Tasarım aşamasında).
+## 🎯 Derinlemesine MVP Kapsamı
+Ürün-pazar uyumunu ve teknik uygulanabilirliği kanıtlamak için MVP, şu dört gelişmiş modülü kapsar:
+
+1.  **Yapay Zeka Destekli Abonelik Zekası (SI):** * **Mantık:** Karmaşık banka dökümlerini (CSV/JSON/PDF) ayrıştırmak ve tekrarlayan faturaları tek seferlik harcamalardan ayırt etmek için örüntü tanıma kullanır.
+    * **Değer:** Genellikle fark edilmeyen "zombi" abonelikleri ve gizli fiyat artışlarını tespit eder.
+
+2.  **Akıllı Nakit Tüketim ve Akış Motoru:** * **Mantık:** Mevcut harcama hızı ile yaklaşan otomatik ödemeleri simüle eder.
+    * **Değer:** Gerçek zamanlı "Ay Sonu" bakiye tahminleri sunar ve ödeme öncesi likidite uyarıları gönderir.
+
+3.  **Otonom "Hayalet Kart" Yöneticisi:** * **Mantık:** Programlanabilir son kullanma tarihlerine ve harcama limitlerine sahip dinamik sanal kart üretim simülasyonu.
+    * **Değer:** Deneme süresi sonunda ödeme kaynağını otomatik olarak devre dışı bırakarak "Ücretsiz Deneme Tuzaklarını" ortadan kaldırır.
+
+4.  **Yapay Zeka Destekli Pazarlık ve İletişim Botu:** * **Mantık:** Rekabetçi piyasa verilerine dayanarak indirim veya iptal talebi için bağlama duyarlı, ikna edici iletişim taslakları (E-posta/Chat) oluşturur.
+    * **Değer:** Kullanıcı müdahalesi gerektirmeden "Hizmet Maliyetini" aktif olarak düşürür.
+
+## 📂 Dokümantasyon Yapısı
+- [Detaylı Ürün Gereksinimleri (PRD)](./PRD.md) - Teknik mantık, istisnai durumlar ve başarı metriklerinin derinlemesine analizi.
+- [Proje Yol Haritası](#) - MVP'den tam ölçekli FinTech platformuna geçiş stratejisi.
 
 ---
 *Bu proje UpSchool & YGA Future Talent Programı kapsamında "AI & Business Analysis" bitirme ödevi olarak geliştirilmiştir.*
